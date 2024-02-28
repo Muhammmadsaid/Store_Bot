@@ -1,5 +1,5 @@
-BOT_TOKEN = "6315442539:AAE1LNZkLiZ2WM_h4DFM7LHQDrUbkjXCbIs"
+BOT_TOKEN = ""
 
 DB_NAME = "store.db"
 
-admins = [5712396262]
+admins = []
